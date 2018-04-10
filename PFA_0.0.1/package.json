@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "generator-electrode": "^4.0.3",
+    "xclap-cli": "^0.1.3"
+  }
+}
